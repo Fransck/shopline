@@ -1,0 +1,2 @@
+index1 fait reference à la page d'accueil principale mais les traitements ne sont pas liés.
+index contient une page d'accueil secondaire et les traitements .
